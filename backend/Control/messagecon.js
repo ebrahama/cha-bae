@@ -1,5 +1,5 @@
 const asyncHandler = require("express-async-handler");
-const Message = require("../models/messagemod");
+const Message = require("../Models/messagemod");
 const User = require("../Models/usermod");
 const Chat = require("../Models/chatmod");
 
